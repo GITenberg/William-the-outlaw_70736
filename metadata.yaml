@@ -1,0 +1,28 @@
+_repo: William-the-outlaw_70736
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crompton, Richmal
+    alias: Lamburn, Richmal Crompton
+    birthdate: 1890
+    deathdate: 1969
+    gutenberg_agent_id: '7152'
+    url: http://www.gutenberg.org/2009/agents/7152
+    wikipedia: https://en.wikipedia.org/wiki/Richmal_Crompton
+description: ''
+gutenberg_issued: '2023-05-10'
+identifiers:
+  gutenberg: '70736'
+language: en
+pgterms:marc905: 20221024092650crompton
+pgterms:marc906: '1927'
+pgterms:marc907: GB
+production_note: Alan, deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited Kingdom :$bGeorge Newnes Limited, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: William the outlaw
+url: http://www.gutenberg.org/ebooks/70736
