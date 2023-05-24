@@ -1,5 +1,8 @@
 _repo: William-the-outlaw_70736
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70736-h/images/cover.jpg
 creator:
   author:
     agent_name: Crompton, Richmal
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7152
     wikipedia: https://en.wikipedia.org/wiki/Richmal_Crompton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70736#William-the-outlaw
 gutenberg_issued: '2023-05-10'
 identifiers:
   gutenberg: '70736'
